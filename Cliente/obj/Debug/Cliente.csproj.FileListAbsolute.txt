@@ -1,0 +1,12 @@
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\Cliente.exe
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\GenuineChannels.dll
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\InterfazMensaje.dll
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\SharpZipLib.dll
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\bin\Debug\InterfazMensaje.pdb
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\obj\Debug\Cliente.exe
+C:\Users\Pitalua\source\repos\InterfazMensaje\Cliente\obj\Debug\Cliente.pdb

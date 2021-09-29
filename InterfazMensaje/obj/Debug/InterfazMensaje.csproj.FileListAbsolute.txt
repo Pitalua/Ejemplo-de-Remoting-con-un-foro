@@ -1,0 +1,6 @@
+C:\Users\Pitalua\source\repos\InterfazMensaje\InterfazMensaje\bin\Debug\InterfazMensaje.dll
+C:\Users\Pitalua\source\repos\InterfazMensaje\InterfazMensaje\bin\Debug\InterfazMensaje.pdb
+C:\Users\Pitalua\source\repos\InterfazMensaje\InterfazMensaje\obj\Debug\InterfazMensaje.csproj.AssemblyReference.cache
+C:\Users\Pitalua\source\repos\InterfazMensaje\InterfazMensaje\obj\Debug\InterfazMensaje.csproj.CoreCompileInputs.cache
+C:\Users\Pitalua\source\repos\InterfazMensaje\InterfazMensaje\obj\Debug\InterfazMensaje.dll
+C:\Users\Pitalua\source\repos\InterfazMensaje\InterfazMensaje\obj\Debug\InterfazMensaje.pdb
